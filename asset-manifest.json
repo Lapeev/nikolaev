@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/nikolaev/static/css/main.e9ab4ec2.chunk.css",
+    "main.js": "/nikolaev/static/js/main.87cc7c65.chunk.js",
+    "main.js.map": "/nikolaev/static/js/main.87cc7c65.chunk.js.map",
+    "runtime-main.js": "/nikolaev/static/js/runtime-main.b18ddbc5.js",
+    "runtime-main.js.map": "/nikolaev/static/js/runtime-main.b18ddbc5.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "/nikolaev/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.6097d6db.chunk.js": "/nikolaev/static/js/2.6097d6db.chunk.js",
+    "static/js/2.6097d6db.chunk.js.map": "/nikolaev/static/js/2.6097d6db.chunk.js.map",
+    "index.html": "/nikolaev/index.html",
+    "precache-manifest.8d5790665a7b3d31b27b505dbc036189.js": "/nikolaev/precache-manifest.8d5790665a7b3d31b27b505dbc036189.js",
+    "service-worker.js": "/nikolaev/service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "/nikolaev/static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.e9ab4ec2.chunk.css.map": "/nikolaev/static/css/main.e9ab4ec2.chunk.css.map",
+    "static/js/2.6097d6db.chunk.js.LICENSE": "/nikolaev/static/js/2.6097d6db.chunk.js.LICENSE",
+    "static/media/carouselSlider.css": "/nikolaev/static/media/angle-arrow-right.c30ee09f.svg",
+    "static/media/arrow-right-copy.svg": "/nikolaev/static/media/arrow-right-copy.a5f6a8af.svg",
+    "static/media/citizenry.svg": "/nikolaev/static/media/citizenry.400883cc.svg",
+    "static/media/company.svg": "/nikolaev/static/media/company.0a64e437.svg",
+    "static/media/counter.svg": "/nikolaev/static/media/counter.8bbf61fb.svg",
+    "static/media/counterMob.svg": "/nikolaev/static/media/counterMob.719ea73c.svg",
+    "static/media/debts.svg": "/nikolaev/static/media/debts.220fe886.svg",
+    "static/media/debtsMob.svg": "/nikolaev/static/media/debtsMob.bd2273f8.svg",
+    "static/media/errorImage.svg": "/nikolaev/static/media/errorImage.285b3398.svg",
+    "static/media/magicIndex.module.css": "/nikolaev/static/media/index.f76238ea.jpg",
+    "static/media/logoNik.svg": "/nikolaev/static/media/logoNik.3e811d81.svg",
+    "static/media/priyomnaya.svg": "/nikolaev/static/media/priyomnaya.ef8a5ec2.svg",
+    "static/media/priyomnayaMob.svg": "/nikolaev/static/media/priyomnayaMob.0332ab76.svg",
+    "static/media/qr-code.svg": "/nikolaev/static/media/qr-code.dfa82224.svg",
+    "static/media/userLogged.svg": "/nikolaev/static/media/userLogged.4d2c3309.svg",
+    "static/media/viber.svg": "/nikolaev/static/media/viber.d9ba3c98.svg",
+    "static/media/viberLogoMob.svg": "/nikolaev/static/media/viberLogoMob.65b0af55.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b18ddbc5.js",
+    "static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.6097d6db.chunk.js",
+    "static/css/main.e9ab4ec2.chunk.css",
+    "static/js/main.87cc7c65.chunk.js"
+  ]
+}
