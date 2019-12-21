@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1540ce219e906a80767ce72a3e801b5",
+    "revision": "448f54f65c62f301e6c32c27caa97c89",
     "url": "/nikolaev/index.html"
   },
   {
-    "revision": "9af91bedd7a5fc9cb7f4",
+    "revision": "6930cc92dcfc6885fef3",
     "url": "/nikolaev/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "112d81363ccbe21a12ca",
+    "revision": "67bfd24bac9192812980",
     "url": "/nikolaev/static/css/main.e9ab4ec2.chunk.css"
   },
   {
-    "revision": "9af91bedd7a5fc9cb7f4",
-    "url": "/nikolaev/static/js/2.6097d6db.chunk.js"
+    "revision": "6930cc92dcfc6885fef3",
+    "url": "/nikolaev/static/js/2.5e0c3fa1.chunk.js"
   },
   {
     "revision": "4056cf285cceb8725a3d3221743946af",
-    "url": "/nikolaev/static/js/2.6097d6db.chunk.js.LICENSE"
+    "url": "/nikolaev/static/js/2.5e0c3fa1.chunk.js.LICENSE"
   },
   {
-    "revision": "112d81363ccbe21a12ca",
-    "url": "/nikolaev/static/js/main.87cc7c65.chunk.js"
+    "revision": "67bfd24bac9192812980",
+    "url": "/nikolaev/static/js/main.012e202a.chunk.js"
   },
   {
     "revision": "bd83cbbeeac7b6b8bb9a",
